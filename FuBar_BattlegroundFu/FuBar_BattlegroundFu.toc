@@ -1,0 +1,25 @@
+## Interface: 20400
+## Title: FuBar - |cffffffffBattleground|r|cff00ff00Fu|r
+## Author: Mynithrosil of Feathermoon
+## eMail: hyperactiveChipmunk@gmail.com
+## Notes: Battleground information for FuBar.
+## Notes-esES: Informacion sobre campos de batalla para FuBar.
+## X-Category: Battlegrounds/PvP
+## Dependencies: FuBar
+## OptionalDeps: Ace2, FuBarPlugin-2.0, LibAbacus-3.0, LibBabble-Zone-3.0, LibCrayon-3.0, DewdropLib, Deformat, GloryLib, TabletLib
+## X-Embeds: Ace2, FuBarPlugin-2.0, LibAbacus-3.0, LibBabble-Zone-3.0, LibCrayon-3.0, DewdropLib, Deformat, GloryLib, TabletLib
+## SavedVariables: BattlegroundFu2DB
+## Version: 2.0
+## LoadOnDemand: 1
+
+embeds.xml
+
+BattlegroundFuLocale-enUS.lua
+#BattlegroundFuLocale-deDE.lua
+BattlegroundFuLocale-frFR.lua
+#BattlegroundFuLocale-koKR.lua
+BattlegroundFuLocale-zhCN.lua
+BattlegroundFuLocale-zhTW.lua
+BattlegroundFuLocale-esES.lua
+
+BattlegroundFu.lua

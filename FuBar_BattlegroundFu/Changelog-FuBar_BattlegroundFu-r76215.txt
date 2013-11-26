@@ -1,0 +1,13 @@
+------------------------------------------------------------------------
+r76215 | nemes | 2008-06-07 13:24:00 -0400 (Sat, 07 Jun 2008) | 2 lines
+Changed paths:
+   M /trunk/FuBar_BattlegroundFu/BattlegroundFu.lua
+   M /trunk/FuBar_BattlegroundFu/BattlegroundFuLocale-zhCN.lua
+   M /trunk/FuBar_BattlegroundFu/BattlegroundFuLocale-zhTW.lua
+   M /trunk/FuBar_BattlegroundFu/FuBar_BattlegroundFu.toc
+   M /trunk/FuBar_BattlegroundFu/embeds.xml
+   M /trunk/FuBar_BattlegroundFu/lib
+
+FuBar_BattlegroundFu: Abacus-2.0 -> LibAbacus-3.0
+
+------------------------------------------------------------------------
